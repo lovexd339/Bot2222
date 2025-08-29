@@ -1,0 +1,11 @@
+{
+  "name": "messenger-name-lock-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "bash start.sh"
+  },
+  "dependencies": {
+    "@xaviabot/fb-chat-api": "^2.0.0"
+  }
+}
