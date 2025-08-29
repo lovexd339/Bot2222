@@ -1,0 +1,9 @@
+# dependencies folder
+node_modules/
+
+# sensitive files
+appstate.json
+locks.json
+
+# logs
+*.log
