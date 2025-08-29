@@ -1,5 +1,5 @@
 const fs = require("fs");
-const login = require("@xaviabot/fb-chat-api");
+const login = require("facebook-chat-api");
 
 // ---- Load config ----
 const CONFIG_PATH = "./config.json";
